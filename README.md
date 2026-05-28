@@ -1,3 +1,5 @@
+⚠️ AI Generated ⚠️
+
 # Sharecene project reference
 
 This document is the current spine of Sharecene. It is meant to be uploaded into the project files and updated when the concept changes.
